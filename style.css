@@ -1,0 +1,17 @@
+main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#button{
+    background: #ff3f3f;
+    color: #c0c0c0;
+    font-size: 40px;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    cursor: pointer;
+}
